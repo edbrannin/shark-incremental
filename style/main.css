@@ -396,6 +396,7 @@ li {
 	bottom: 10px;
 	left: 10px;
 	width: calc(100% - 20px);
+	pointer-events: none;
 }
 
 #feature-progress, #constellation-progress {
